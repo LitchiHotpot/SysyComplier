@@ -1,0 +1,3 @@
+syntax error, unexpected SEMICOLON, expecting ASSIGN
+timeout: the monitored command dumped core
+Segmentation fault

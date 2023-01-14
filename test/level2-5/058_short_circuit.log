@@ -1,0 +1,2 @@
+test/level2-5/058_short_circuit.s: Assembler messages:
+test/level2-5/058_short_circuit.s:1: Error: bad instruction `type i32 can not be used in singleExpr in line xx .arch armv8-a'

@@ -1,0 +1,7 @@
+test/level2-5/080_color.s: Assembler messages:
+test/level2-5/080_color.s:193: Error: ARM register expected -- `push {v850}'
+test/level2-5/080_color.s:274: Error: ARM register expected -- `push {v855}'
+test/level2-5/080_color.s:355: Error: ARM register expected -- `push {v860}'
+test/level2-5/080_color.s:436: Error: ARM register expected -- `push {v865}'
+test/level2-5/080_color.s:506: Error: ARM register expected -- `push {v870}'
+test/level2-5/080_color.s:803: Error: ARM register expected -- `push {v907}'
