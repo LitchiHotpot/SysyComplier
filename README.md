@@ -1,12 +1,4 @@
-# 2022Fall NKUCS Course - Principle of Compilers
-
-> Lab7: Machine Code Generation
->
-> Author: Emanual20 YoungCoder feilll shm0214
-> 
-> Date: 2021/11/28 2022/9/30
-
-## 编译器命令
+## 编译器命令 Compiler Command
 ```
 Usage：build/compiler [options] infile
 Options:
@@ -16,6 +8,9 @@ Options:
     -i          Print intermediate code
     -S          Print assembly code
 ```
+## Final Implementation
+
+The final compiler supports the use of integer, boolean, and array variables in terms of variable types. In terms of statement types, it supports function declaration and invocation, if-else control statements, while loop statements, break and continue loop control statements, as well as variable declaration, initialization, and various complex calculations. It also undergoes code optimization work.
 
 ## VSCode调试
 
